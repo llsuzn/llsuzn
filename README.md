@@ -14,17 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=egg&color=0:ff8080,100:ffbbbb)
-
+  <div align=center>
+	
+  ![header](https://capsule-render.vercel.app/api?type=egg&color=0:ffecec,100:ff8080)
+	
+  </div>
+  
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/python-ff8080?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-ffbbbb?style=for-the-badge&logo=C&logoColor=white"> 	
   <br>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">   
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">	
+  <img src="https://img.shields.io/badge/linux-97cbff?style=for-the-badge&logo=linux&logoColor=black">   
+  <img src="https://img.shields.io/badge/bootstrap-ccbde1?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">	
 </div>
 
   <div align=center>
