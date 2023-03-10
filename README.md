@@ -1,5 +1,3 @@
-### Welcome llsuzn Git 👋
-
 <!--
 **llsuzn/llsuzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,13 @@ Here are some ideas to get you started:
   ![header](https://capsule-render.vercel.app/api?type=egg&color=0:ffecec,100:ff8080)
 	
   </div>
+
+  <div align=center> 
+	
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=1000&color=FFAFAF&vCenter=true&width=435&lines=Welcome+llsuzn+Git+!!)](https://git.io/typing-svg) 
   
+  </div>
+
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/python-ff8080?style=for-the-badge&logo=python&logoColor=white">
@@ -38,6 +42,6 @@ Here are some ideas to get you started:
   
   <div align=center>
 	
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=llsuzn)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=llsuzn&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 	
   </div>
