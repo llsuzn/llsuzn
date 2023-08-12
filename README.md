@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
-  <img src="https://img.shields.io/badge/python-ff8080?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-ffbbbb?style=for-the-badge&logo=C&logoColor=white"> 	
+  <img src="https://img.shields.io/badge/python-ffdddd?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-ffbbbb?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-ff8080?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/linux-97cbff?style=for-the-badge&logo=linux&logoColor=black">   
   <img src="https://img.shields.io/badge/bootstrap-ccbde1?style=for-the-badge&logo=bootstrap&logoColor=white">
