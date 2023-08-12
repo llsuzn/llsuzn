@@ -43,6 +43,6 @@ Here are some ideas to get you started:
   
   <div align=center>
 	
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=llsuzn&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![llsuzn's github stats](https://github-readme-stats.vercel.app/api?username=llsuzn&show_icons=true&theme=dracula)](https://github.com/llsuzn)
 	
   </div>
