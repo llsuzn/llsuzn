@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 
   <div align=center> 
 	
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=1000&color=FFAFAF&vCenter=true&width=435&lines=Welcome+llsuzn+Git+!!)](https://git.io/typing-svg) 
-  
-  </div>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=1000&color=FFAFAF&vCenter=true&width=435&lines=Welcome+llsuzn+Git+!!)](https://git.io/typing-svg)
+  ## Hello, I'm a firmware developer.💻
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
